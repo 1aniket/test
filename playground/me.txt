@@ -1,5 +1,0 @@
-{{#user}}
-Name: Aniket
-Skills: HTML, CSS, JS, Bootstrap, Node.js, Express.js
-Email: aniketbhogawar@icloud.com
-{{/user}}
